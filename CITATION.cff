@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "If you use this code, please cite the article and this archive."
 title: "Code: testing an ecological security pattern in Mizoram, India"
 version: "1.0.0"
+doi: 10.5281/zenodo.23857099
 date-released: 2026-11-01
 license: MIT
 repository-code: "https://github.com/DinosKuri/mizoram-esp"

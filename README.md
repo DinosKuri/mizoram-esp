@@ -1,5 +1,7 @@
 # Code: testing an ecological security pattern in Mizoram, India
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23857099.svg)](https://doi.org/10.5281/zenodo.23857099)
+
 This archive accompanies the article:
 
 > Khiangte, L., Sati, V.P., Khuma, Z. Testing an ecological security pattern against independent species records in a shifting-cultivation mountain of the Indo-Burma hotspot. Manuscript under review.
@@ -45,4 +47,6 @@ All input data are openly available from their providers (Table S1 of the articl
 
 ## Licence
 
-MIT License (`LICENSE`). Please cite the article and this archive.
+MIT License (`LICENSE`). Please cite the article and this archive:
+
+> Khiangte, L., Sati, V.P., Khuma, Z., 2026. *Code: testing an ecological security pattern in Mizoram, India* (Version 1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.23857099
