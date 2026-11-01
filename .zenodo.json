@@ -1,0 +1,30 @@
+{
+  "title": "Code: testing an ecological security pattern in Mizoram, India",
+  "upload_type": "software",
+  "description": "<p>Code that produces the results of the article <em>Testing an ecological security pattern against independent species records in a shifting-cultivation mountain of the Indo-Burma hotspot</em> (Khiangte, Sati and Khuma, under review): the pooled, terrain-corrected Remote Sensing Ecological Index (RSEI) for 35 dry seasons (1990–2025), trend and driver analyses, guild-specific connectivity models (least-cost corridors, Circuitscape and Omniscape), validation with independent species records, and the ecological security pattern (ESP) with restoration scenarios. Mizoram, north-east India.</p>",
+  "license": "MIT",
+  "version": "1.0.0",
+  "creators": [
+    {
+      "name": "Khiangte, Laldinchhuaha",
+      "affiliation": "Department of Geography and Resource Management, Mizoram University",
+      "orcid": "0009-0003-3258-7299"
+    },
+    {
+      "name": "Sati, Vishwambhar Prasad",
+      "affiliation": "Department of Geography and Resource Management, Mizoram University"
+    },
+    {
+      "name": "Khuma, Zoram",
+      "affiliation": "Department of Geography, Pachhunga University College"
+    }
+  ],
+  "keywords": [
+    "ecological security pattern",
+    "Remote Sensing Ecological Index",
+    "landscape connectivity",
+    "circuit theory",
+    "shifting cultivation",
+    "Mizoram"
+  ]
+}

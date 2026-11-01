@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article and this archive."
+title: "Code: testing an ecological security pattern in Mizoram, India"
+version: "1.0.0"
+date-released: 2026-11-01
+license: MIT
+repository-code: "https://github.com/DinosKuri/mizoram-esp"
+authors:
+  - family-names: Khiangte
+    given-names: Laldinchhuaha
+    affiliation: "Department of Geography and Resource Management, Mizoram University"
+    orcid: "https://orcid.org/0009-0003-3258-7299"
+    email: khiangtedinchhuaha@gmail.com
+  - family-names: Sati
+    given-names: Vishwambhar Prasad
+    affiliation: "Department of Geography and Resource Management, Mizoram University"
+  - family-names: Khuma
+    given-names: Zoram
+    affiliation: "Department of Geography, Pachhunga University College"
+keywords:
+  - ecological security pattern
+  - Remote Sensing Ecological Index
+  - landscape connectivity
+  - circuit theory
+  - shifting cultivation
+  - Mizoram

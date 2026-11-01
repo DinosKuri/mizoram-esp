@@ -1,0 +1,10 @@
+# credentials (never commit)
+gee_key.json
+*.json.key
+.env
+# outputs and caches
+*.tif
+*.gpkg
+*.npy
+__pycache__/
+.DS_Store
